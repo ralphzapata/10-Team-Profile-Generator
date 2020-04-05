@@ -1,0 +1,32 @@
+{
+  "name": "10-team-profile-generator",
+  "version": "1.0.0",
+  "description": "Team Profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^25.2.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphzapata/10-Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "Profile",
+    "Generator"
+  ],
+  "author": "Ralph Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphzapata/10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/ralphzapata/10-Team-Profile-Generator#readme"
+}
